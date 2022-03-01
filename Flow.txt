@@ -1,0 +1,13 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+Init Text\Flow is good
+=======
+Init Text\Flow is good
+In develop
+>>>>>>> Stashed changes
+=======
+Init Text
+Flow is good
+>>>>>>> Stashed changes
+
+
